@@ -1,3 +1,4 @@
+[CV Wassie, FA.pdf](https://github.com/user-attachments/files/20433101/CV.Wassie.FA.pdf)
 ---
 layout: archive
 title: "CV"
